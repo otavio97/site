@@ -1,3 +1,5 @@
+
+
 #home {
 	background: #000000;
 	color: white;
@@ -57,4 +59,8 @@ h4 {
 	margin: 0 auto;
 	padding-bottom: 20px;
 
+}
+
+.test2 {
+	width: 100% !important;
 }

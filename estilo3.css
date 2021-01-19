@@ -1,3 +1,5 @@
+
+
 .dividir {
 	text-align: center;
 	padding: 10px 15px 20px;
@@ -17,4 +19,8 @@
 
 .divisao img p {
 	display: inline-block;
+}
+
+.test {
+	width: 100%;
 }
